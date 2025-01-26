@@ -14,3 +14,4 @@ https://thedabhut.com/product/pocket-rocket-dab-pen-bundle
   
   Fork of the works of https://github.com/TBXin/NFirmwareEditor @ArcticFox @NFETeam & others TBN..
 
+The impetus of this fork is to provide consumers the ability to repair, modify, alter, and utilize a tool that they have purchased.  
